@@ -7,4 +7,5 @@ A collection of LeetCode and DSA solutions implemented in Java.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
