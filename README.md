@@ -17,6 +17,7 @@ A collection of LeetCode and DSA solutions implemented in Java.
 | [0189-rotate-array](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -28,4 +29,8 @@ A collection of LeetCode and DSA solutions implemented in Java.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
