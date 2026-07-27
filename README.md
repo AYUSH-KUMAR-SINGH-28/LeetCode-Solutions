@@ -13,6 +13,7 @@ A collection of LeetCode and DSA solutions implemented in Java.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -32,5 +33,6 @@ A collection of LeetCode and DSA solutions implemented in Java.
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
