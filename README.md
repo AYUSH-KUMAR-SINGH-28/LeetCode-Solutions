@@ -14,6 +14,7 @@ A collection of LeetCode and DSA solutions implemented in Java.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0118-pascals-triangle](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -44,4 +45,8 @@ A collection of LeetCode and DSA solutions implemented in Java.
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
