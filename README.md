@@ -18,6 +18,7 @@ A collection of LeetCode and DSA solutions implemented in Java.
 | [0119-pascals-triangle-ii](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -37,10 +38,12 @@ A collection of LeetCode and DSA solutions implemented in Java.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
@@ -51,4 +54,8 @@ A collection of LeetCode and DSA solutions implemented in Java.
 | ------- |
 | [0118-pascals-triangle](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
