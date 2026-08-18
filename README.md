@@ -8,6 +8,7 @@ A collection of LeetCode and DSA solutions implemented in Java.
 | ------- |
 | [0007-reverse-integer](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Array
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode and DSA solutions implemented in Java.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -67,4 +69,8 @@ A collection of LeetCode and DSA solutions implemented in Java.
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AYUSH-KUMAR-SINGH-28/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
